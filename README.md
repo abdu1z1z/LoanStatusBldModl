@@ -39,3 +39,8 @@ GridSearchCV was used to enhance performance by tuning model parameters, such as
 Results
 The accuracy of each model was measured to determine the best model for predicting loan status.
 After optimization, high accuracy was achieved using Random Forest.
+
+
+Project contributors :
+abdulaziz althobaiti 
+Khalid alsoqairi 
